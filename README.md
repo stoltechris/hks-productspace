@@ -10,7 +10,7 @@ This project uses Vite as the build system, which requires Node.js version 18+ o
 Open a terminal and run
 
 ```
-cd hks-network
+cd hks-productspace
 npm install
 npm run dev
 ```
